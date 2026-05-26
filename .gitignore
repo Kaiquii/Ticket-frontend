@@ -22,6 +22,10 @@ dev-server.log
 .env.*
 !.env.example
 
+# Local agent/skill artifacts
+.agents/
+skills-lock.json
+
 # IDEs and editors
 .idea/
 .project
